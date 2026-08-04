@@ -1,0 +1,22 @@
+[
+    {
+        "title": "gotowanie",
+        "completed": false,
+        "priority": "NORMAL"
+    },
+    {
+        "title": "czytanie",
+        "completed": false,
+        "priority": "NORMAL"
+    },
+    {
+        "title": "Pranie",
+        "completed": true,
+        "priority": "LOW"
+    },
+    {
+        "title": "sen",
+        "completed": true,
+        "priority": "HIGH"
+    }
+]

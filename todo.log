@@ -1,0 +1,35 @@
+2026-07-22 22:11:26,425 - [INFO] - Aplikacja została uruchomiona.
+2026-07-22 22:11:34,179 - [WARNING] - Próba dodania pustego zadania nieudana.
+2026-07-22 22:11:34,180 - [INFO] - Zadanie zapisane.
+2026-07-22 22:11:41,412 - [INFO] - Zadanie 'pranie' usunięte pomyślnie.
+2026-07-22 22:11:41,413 - [INFO] - Zadanie zapisane.
+2026-07-22 22:11:43,965 - [INFO] - Wyświetlenie pełnej listy zadań.
+2026-07-22 22:11:46,253 - [INFO] - Aplikacja została bezpiecznie zamknięta przez użytkownika.
+2026-07-26 00:03:56,574 - [INFO] - Aplikacja została uruchomiona.
+2026-07-26 00:04:04,777 - [INFO] - Wyświetlenie pełnej listy zadań.
+2026-07-26 00:04:19,399 - [INFO] - Zadanie 'sprzątanie' usunięte pomyślnie.
+2026-07-26 00:04:19,400 - [INFO] - Zadanie zapisane.
+2026-07-26 00:04:21,718 - [INFO] - Wyświetlenie pełnej listy zadań.
+2026-07-26 12:38:22,642 - [INFO] - Aplikacja została uruchomiona.
+2026-07-26 12:38:22,642 - [INFO] - Aplikacja została uruchomiona.
+2026-07-28 22:19:36,526 - [INFO] - Aplikacja została uruchomiona.
+2026-07-28 22:19:56,932 - [INFO] - Zadanie 'Pranie' dodane pomyślnie jako obiekt Task.
+2026-07-28 22:19:56,934 - [INFO] - Zadanie zapisane.
+2026-07-28 22:20:00,140 - [INFO] - Wyświetlenie pełnej listy zadań.
+2026-07-28 22:20:09,456 - [INFO] - Aplikacja została bezpiecznie zamknięta przez użytkownika.
+2026-07-28 22:20:11,493 - [INFO] - Wyświetlenie pełnej listy zadań.
+2026-07-28 22:20:32,551 - [INFO] - Aplikacja została bezpiecznie zamknięta przez użytkownika.
+2026-07-29 21:41:20,656 - [INFO] - Aplikacja została uruchomiona.
+2026-07-29 21:41:26,844 - [INFO] - Wyświetlenie pełnej listy zadań.
+2026-07-29 21:41:32,477 - [INFO] - Status zadania 'Pranie' zmieniony na completed=True.
+2026-07-29 21:41:32,478 - [INFO] - Zadanie zapisane.
+2026-07-29 21:41:34,874 - [INFO] - Wyświetlenie pełnej listy zadań.
+2026-07-29 22:03:59,781 - [INFO] - Aplikacja została uruchomiona.
+2026-07-29 22:04:19,839 - [INFO] - Zadanie 'sen' dodane pomyślnie jako obiekt Task.
+2026-07-29 22:04:19,840 - [INFO] - Zadanie zapisane.
+2026-07-29 22:04:22,188 - [INFO] - Wyświetlenie pełnej listy zadań.
+2026-07-29 22:04:26,381 - [INFO] - Wyświetlenie pełnej listy zadań.
+2026-07-29 22:04:28,581 - [INFO] - Status zadania 'sen' zmieniony na completed=True.
+2026-07-29 22:04:28,582 - [INFO] - Zadanie zapisane.
+2026-07-29 22:04:33,438 - [INFO] - Wyświetlenie pełnej listy zadań.
+2026-07-29 22:04:36,541 - [INFO] - Aplikacja została bezpiecznie zamknięta przez użytkownika.

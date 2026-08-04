@@ -1,0 +1,16 @@
+2026-07-26 00:03:56,574 - [INFO] - Pomyślnie wczytano dane z pliku data/todo.json
+2026-07-26 00:04:19,400 - [INFO] - Pomyślnie zapisano dane do pliku data/todo.json
+2026-07-26 16:02:18,601 - [WARNING] - Plik data/test_data.json nie istnieje podczas próby odczytu.
+2026-07-26 16:02:18,607 - [ERROR] - Plik data/test_data.json zawiera uszkodzony JSON.
+2026-07-26 16:02:18,608 - [INFO] - Pomyślnie zapisano dane do pliku data/test_data.json
+2026-07-26 16:02:18,615 - [INFO] - Pomyślnie wczytano dane z pliku data/test_data.json
+2026-07-28 22:19:36,526 - [INFO] - Pomyślnie wczytano dane z pliku data/todo.json
+2026-07-28 22:19:36,533 - [INFO] - Pomyślnie wczytano dane z pliku data/shopping.json
+2026-07-28 22:19:56,933 - [INFO] - Pomyślnie zapisano dane do pliku data/todo.json
+2026-07-29 21:41:20,655 - [INFO] - Pomyślnie wczytano dane z pliku data/todo.json
+2026-07-29 21:41:20,663 - [INFO] - Pomyślnie wczytano dane z pliku data/shopping.json
+2026-07-29 21:41:32,478 - [INFO] - Pomyślnie zapisano dane do pliku data/todo.json
+2026-07-29 22:03:59,781 - [INFO] - Pomyślnie wczytano dane z pliku data/todo.json
+2026-07-29 22:03:59,781 - [INFO] - Pomyślnie wczytano dane z pliku data/shopping.json
+2026-07-29 22:04:19,840 - [INFO] - Pomyślnie zapisano dane do pliku data/todo.json
+2026-07-29 22:04:28,582 - [INFO] - Pomyślnie zapisano dane do pliku data/todo.json
